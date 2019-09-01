@@ -20,7 +20,7 @@ public class Mapas {
         try {
             Mapa m = new Mapa();
         } catch (Exception e) {
-            System.out.println("Error: " + e);
+            System.out.println("Error:  " + e);
         }
     }
 
